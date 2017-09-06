@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/advent_pro</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/anonymous_pro</item>
+        <item>@font/anonymous_pro_bold</item>
+    </array>
+</resources>
